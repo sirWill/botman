@@ -1,7 +1,7 @@
 {
-    "name": "mpociot/botman",
+    "name": "sirwill/botman",
     "license": "MIT",
-    "description": "Create messaging bots in PHP with ease.",
+    "description": "Fork of mpociot/botman. Create messaging bots in PHP with ease.",
     "keywords": [
         "Bot",
         "BotMan",
