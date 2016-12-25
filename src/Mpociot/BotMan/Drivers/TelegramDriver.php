@@ -31,6 +31,16 @@ class TelegramDriver extends Driver
     }
 
     /**
+     * Return the payload from driver.
+     * 
+     * @return Symfony\Component\HttpFoundation\ParameterBag payload;
+     */
+    public function getPayload()
+    {
+        return $this->payload;
+    }
+
+    /**
      * Return the driver name.
      *
      * @return string
